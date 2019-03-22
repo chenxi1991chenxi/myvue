@@ -1,1 +1,23 @@
-vue +cube ui 重构饿了么APP
+vue-cli2.x.x 版本 安装指定版本
+所有版本安装，前提是已经全局安装过node 和 全局安装过webpack
+
+npm install -g vue-cli@2.9.6
+
+
+
+vue-cli2.x.x 版本卸载
+npm uninstall -g vue-cli
+
+
+
+vue-cli3.x.x 版本安装
+3.0 级以上版本 Vue CLI 的包名称由 vue-cli 改成了 @vue/cli
+
+npm install -g @vue/cli
+
+
+vue-cli3.x.x 版本卸载
+
+npm uninstall -g @vue/cli
+
+ 
