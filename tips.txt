@@ -20,4 +20,8 @@ vue-cli3.x.x °æ±¾Ð¶ÔØ
 
 npm uninstall -g @vue/cli
 
- 
+
+
+ °²×°cube ui
+
+vue add cube-ui
